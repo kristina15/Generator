@@ -2,12 +2,21 @@
 /shelf/
 /workspace.xml
 # Rider ignored files
+<<<<<<< HEAD
 /modules.xml
 /contentModel.xml
 /projectSettingsUpdater.xml
 /.idea.Generator.iml
 # Datasource local storage ignored files
 /../../../../../../../../../../:\Users\krisy\OneDrive\Documents\GitHub\Generator\.idea\.idea.Generator.dir\.idea/dataSources/
+=======
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Generator.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\krisy\OneDrive\Documents\Generator\.idea\.idea.Generator.dir\.idea/dataSources/
+>>>>>>> b2abb63703ba4333411999c582fd73b19e0c6944
 /dataSources.local.xml
 # Editor-based HTTP Client requests
 /httpRequests/
