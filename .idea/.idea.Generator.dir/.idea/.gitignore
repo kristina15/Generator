@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.Generator.iml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\krisy\OneDrive\Documents\GitHub\Generator\.idea\.idea.Generator.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
